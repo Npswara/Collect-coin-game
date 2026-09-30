@@ -2,7 +2,7 @@
 
 > Think collecting coins is easy? Think again! Navigating intricate traps, relentless obstacles, and complex puzzle layouts, **Collect Coin Game** takes a simple objective and turns it into an unforgiving test of skill.
 
-🌐 **Play the game directly on itch.io:** [https://npswara.itch.io/collectcoinv1](https://npswara.itch.io/collectcoinv1)
+🌐 **Play the game directly on itch.io:** [CollectCoinV1](https://npswara.itch.io/collectcoinv1)
 
 ---
 
