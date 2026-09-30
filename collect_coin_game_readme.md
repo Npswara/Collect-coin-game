@@ -19,7 +19,6 @@ Getting *most* of the coins won't cut it here. To truly beat the game, you must 
 * **Punishingly Fun Gameplay:** A simple concept backed by complex, highly challenging mechanics that keep you on the edge of your seat.
 * **Intricate Map Hazards:** Navigate through multi-layered obstacles, moving traps, and precision puzzles designed to trip up even experienced players.
 * **All-or-Nothing Completion:** True victory requires absolute perfection. You must find and grab every single coin across all maps to win.
-* **Mastery & Precision:** Experiment with routes, perfect your timing, and sharpen your skills to conquer the ultimate coin-collecting challenge.
 
 ## 🏆 Win Condition
 
@@ -31,6 +30,6 @@ To achieve victory in **Collect Coin Game**, players must fulfill the following 
 
 | Action | Key / Input |
 | --- | --- |
-| Maju (Move Forward) | `→` (Right Arrow) |
-| Mundur (Move Backward) | `←` (Left Arrow) |
-| Lompat (Jump) | `Space` |
+| Move Forward | `→` (Right Arrow) |
+| Move Backward | `←` (Left Arrow) |
+| Jump | `Space` |
